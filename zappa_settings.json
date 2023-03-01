@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "app_function": "menor_de_arreglo",
+        "keep_warm": false,
+        "role_name": "LabRole",
+        "aws_region": "us-east-1",
+        "manage_roles": false,
+        "apigateway_enabled": false,
+        "profile_name": "default",
+        "project_name": "unit-test",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-z6sgkvxpq"
+    }
+}
